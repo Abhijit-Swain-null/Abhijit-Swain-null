@@ -1,16 +1,34 @@
-## Hi there 👋
+<h2 align="center">Abhijit Swain</h2>
+<p align="center">Beginner Developer • Python • C • C++</p>
 
-<!--
-**Abhijit-Swain-null/Abhijit-Swain-null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 About Me
+I like building clean, simple, and useful projects.  
+Still learning, still experimenting, and improving with every commit.  
+I prefer minimal design, straightforward code, and practical ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Learning
+- Python  
+- C / C++  
+- Git, GitHub, CLI basics  
+
+---
+
+### 🎯 What I'm Working On
+- Writing cleaner and more efficient code  
+- Small projects that solve real problems  
+- Trying out different tools and improving my workflow  
+
+---
+
+### ⭐ Explore My Repos
+If you find something interesting, feel free to star it — always appreciated.
+
+---
+
+<p align="center">
+  <sub>Minimal. Clean. Useful.</sub>
+</p>
