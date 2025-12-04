@@ -1,5 +1,4 @@
-<h2 align="center">Abhijit Swain</h2>
-<p align="center">Beginner Developer • Python • C • C++</p>
+<h2 align="center" style="color: #5de2e7;">Abhijit Swain</h2><p align="center">Beginner Developer • Python • C • C++</p>
 
 ---
 
