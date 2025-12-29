@@ -28,6 +28,3 @@ If you find something interesting, feel free to star it — always appreciated.
 
 ---
 
-<p align="center">
-  <sub>Minimal. Clean. Useful.</sub>
-</p>
